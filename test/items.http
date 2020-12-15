@@ -1,0 +1,7 @@
+### get item
+GET {{host}}/items/2
+Accept: application/json
+
+### invalid request
+GET {{host}}/employee
+Accept: application/json
